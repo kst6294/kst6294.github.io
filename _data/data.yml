@@ -8,54 +8,54 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 김순태
+    tagline: Backend Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: kst6294@gmail.com
+    # phone: 012 345 6789
+    timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    linkedin: kst6294
+    # xing: alandoe
+    github: kst6294
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@jekyllrb'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # mastodon:  # Please include your full Mastodon link here.
+    # hackerrank: # Please provide your HackerRank username.
+    # leetcode: # Please provide your LeetCode username.
+    # pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Native
 
-        - idiom: French
-          level: Professional
+    #     - idiom: French
+    #       level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #     - idiom: Spanish
+    #       level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-        - item: Snowboarding
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Cooking
-          link:
+    #     - item: Cooking
+    #       link:
 
 career-profile:
     title: Career Profile
@@ -66,31 +66,31 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+# education:
+#     title: Education
+#     info:
+#       - degree: MSc in Computer Science
+#         university: University of London
+#         time: 2011 - 2012
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+#       - degree: BSc in Applied Mathematics
+#         university: Bristol University
+#         time: 2007 - 2011
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 
 experiences:
     title: Experiences
