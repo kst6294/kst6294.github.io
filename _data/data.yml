@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    # education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 김순태
@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: kst6294@gmail.com
     # phone: 012 345 6789
-    timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    # timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    # citizenship:
+    # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: kst6294
     # xing: alandoe
     github: kst6294
