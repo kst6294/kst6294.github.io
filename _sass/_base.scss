@@ -191,6 +191,7 @@ p {
     display: flex;
   }
   .job-title,
+  .experience-company,
   .degree,
   .cert-title{
     color: $text-color;
@@ -200,6 +201,7 @@ p {
     font-weight: 500;
     flex: 75%;
   }
+
   .time,
   .cert-url {
     position: absolute;
@@ -209,6 +211,7 @@ p {
     flex: 25%;
   }
   .company,
+  .experience-role,
   .university,
   .cert-org {
     margin-bottom: 10px;
