@@ -235,16 +235,21 @@ projects:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
+      
+
 skills:
     title: Skills
-    assignments:
-      - title: Langague
-        tagline: "Python"
-
-      - title: Framework
-        tagline: "Django, FastAPI"
-
-
+    info:
+      - 
+        skill: Backend
+        details: |
+            - Bullet point
+            - Bullet point
+      - 
+        skill: DevOps
+        details: |
+            - AWS
+            - Bullet point
     
 
 footer: >
