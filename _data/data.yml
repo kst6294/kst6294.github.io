@@ -89,7 +89,7 @@ career-profile:
 #             - Bullet point
 
 experiences:
-    title: Experiences
+    title: 경력
     info:
       - 
         company: 데얼스(Theres)
@@ -222,7 +222,7 @@ experiences:
       
 
 skills:
-    title: Skills
+    title: 기술스택
     info:
       - 
         skill: Backend
