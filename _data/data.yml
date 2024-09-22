@@ -58,14 +58,10 @@ sidebar:
     #       link:
 
 career-profile:
-    title: Career Profile
+    title: 소개
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      주로 Python, Django, FastAPI를 사용하는 백엔드 개발자 입니다.
+      사용자들의 아웃도어 경험을 디자인하는 데얼스에서 API/Chat 서버 개발 업무를 진행하고 있습니다.
 # education:
 #     title: Education
 #     info:
@@ -98,32 +94,20 @@ experiences:
       - 
         company: 데얼스(Theres)
         role: Backend Developer
-        time: 2022.07 - 현재
+        time: 22.07 - 현재
         
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Theres API 서버 및 채팅 서버 신규 기능 설계 및 개발
+            - Websocket, Redis 활용한 채팅 기능 설계 및 개발
+            - MVP 버전 코드 및 아키텍처 개선, 테스트 코드 & 코드리뷰 도입
+
+
       - company: 홀릭스(Holix)
         role: Backend Developer
-        time: 2021.10 - 2022.07
+        time: 21.10 - 22.07
   
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - 홀릭스 멘토링, 라이브세션 API 개발
     
 
 # certifications:
@@ -167,32 +151,32 @@ experiences:
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # oss:
 #     title: OSS Contributions
@@ -243,13 +227,13 @@ skills:
       - 
         skill: Backend
         details: |
-            - Bullet point
-            - Bullet point
+            - Python, Typescript
+            - Django, FastAPI, NestJS
       - 
         skill: DevOps
         details: |
-            - AWS
-            - Bullet point
+            - AWS, Azure
+            - PostgreSQL, MySQL
     
 
 footer: >
